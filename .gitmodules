@@ -4,3 +4,6 @@
 [submodule "mono2micro-masterclass-class02"]
 	path = mono2micro-masterclass-class02
 	url = https://github.com/gpfaltz/mono2micro-masterclass-class02.git
+[submodule "mono2micro-masterclass-class03"]
+	path = mono2micro-masterclass-class03
+	url = https://github.com/gpfaltz/mono2micro-masterclass-class03.git
